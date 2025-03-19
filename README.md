@@ -13,7 +13,12 @@ Esta API en Python (`app.py`) proporciona un servicio para extraer los primeros 
 
 ### Instalación
 
-1. Instala las dependencias:
+1. Clona el repositorio:
+    ```bash
+   git clone https://github.com/DanielRodZa/Extrae15Productos.git
+   ```
+
+2. Instala las dependencias:
 
     ```bash
     pip install Flask requests beautifulsoup4 selenium webdriver-manager
